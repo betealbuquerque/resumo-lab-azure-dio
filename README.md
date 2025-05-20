@@ -1,2 +1,13 @@
 # resumo-lab-azure-dio
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab Azure na DIO
+O Bootcamp de Azure oferecido pela Dio proporcionou uma experiência valiosa no universo da computação em nuvem da Microsoft. As atividades práticas permitiram consolidar conhecimentos essenciais para a operação e gestão de recursos na plataforma Azure.
+Principais Aprendizados e Tópicos Abordados:
+ * Fundamentos do Azure e Regionalização: Foram compreendidos os conceitos basilares da computação em nuvem, incluindo a distinção entre os modelos de serviço (IaaS, PaaS, SaaS) e, fundamentalmente, a arquitetura global do Azure. Isso abrangeu o entendimento sobre as regiões e zonas de disponibilidade, que são elementos cruciais para a resiliência, baixa latência e conformidade de soluções distribuídas globalmente.
+ * Gestão de Máquinas Virtuais (VMs): A prática de criar e configurar Máquinas Virtuais foi um ponto central. Isso envolveu a seleção de parâmetros como tamanho, sistema operacional, redes virtuais e tipos de disco. A habilidade de gerenciar o ciclo de vida das VMs (iniciar, parar, reiniciar) e o acesso remoto (RDP/SSH) foi desenvolvida.
+ * Configuração de Redes Virtuais (VNets): A importância das Redes Virtuais para a conectividade segura entre recursos no Azure foi explorada. Aprendemos a estruturar VNets e sub-redes, além de configurar Grupos de Segurança de Rede (NSGs) para controlar o fluxo de tráfego.
+ * Serviços de Armazenamento: A familiaridade com os diferentes tipos de armazenamento do Azure foi estabelecida: Blob Storage para dados não estruturados, File Storage para compartilhamentos e Disk Storage para VMs. A compreensão das opções de redundância também foi abordada.
+ * Bancos de Dados Gerenciados: Tivemos uma introdução a serviços de banco de dados como o Azure SQL Database, abrangendo a criação de instâncias e a configuração de regras de acesso (firewall).
+ * Implantação de Aplicações: A facilidade de hospedar e escalar aplicações web utilizando o Azure App Services foi demonstrada, evidenciando o modelo PaaS e a abstração da infraestrutura subjacente.
+ * Monitoramento e Gerenciamento de Recursos: O uso do Azure Monitor foi introduzido como ferramenta para acompanhar o desempenho dos serviços, coletar logs e configurar alertas, aspectos fundamentais para a manutenção e otimização das soluções.
+Considerações Finais:
+O laboratório da Dio no Azure forneceu uma base sólida e prática para a compreensão e operação de serviços fundamentais da plataforma. O conhecimento adquirido é diretamente aplicável e serve como ponto de partida para aprofundamento e certificações futuras na área de computação em nuvem.
