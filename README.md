@@ -1,5 +1,5 @@
 # resumo-lab-azure-dio
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab Azure na DIO
+Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab Azure na DIO. 
 O Bootcamp de Azure oferecido pela Dio proporcionou uma experiência valiosa no universo da computação em nuvem da Microsoft. As atividades práticas permitiram consolidar conhecimentos essenciais para a operação e gestão de recursos na plataforma Azure.
 Principais Aprendizados e Tópicos Abordados:
  * Fundamentos do Azure e Regionalização: Foram compreendidos os conceitos basilares da computação em nuvem, incluindo a distinção entre os modelos de serviço (IaaS, PaaS, SaaS) e, fundamentalmente, a arquitetura global do Azure. Isso abrangeu o entendimento sobre as regiões e zonas de disponibilidade, que são elementos cruciais para a resiliência, baixa latência e conformidade de soluções distribuídas globalmente.
